@@ -1,4 +1,4 @@
-👋 Hello, I'm Ahmed Eishtaw.
+👋 Hello, I'm Ahmed Eishtawi.
 
 👨🏼‍💻 I am a web developer specializing in front-end development and a skilled trainer who trains others in programming, from the basics to building real-world Applications.
 
