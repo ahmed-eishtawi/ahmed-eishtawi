@@ -1,18 +1,18 @@
-#👋 Hello, I'm #Ahmed Eishtawi.
+👋 Hello, I'm #Ahmed Eishtawi.
 
-###👨🏼‍💻 I am a web developer specializing in front-end development and a skilled trainer who trains others in programming, from the basics to building real-world Applications.
+👨🏼‍💻 I am a web developer specializing in front-end development and a skilled trainer who trains others in programming, from the basics to building real-world Applications.
 
-###📃 About Me: Web Developer (Front-end) and Trainer.
+📃 About Me: Web Developer (Front-end) and Trainer.
 
-###📃 Skills: Problem Solving, Systems Analysis, and Design.
+📃 Skills: Problem Solving, Systems Analysis, and Design.
 
-###👨🏼‍💻 Front-end Frameworks: Vue.js 3, Vuetify, Quasar.
+👨🏼‍💻 Front-end Frameworks: Vue.js 3, Vuetify, Quasar.
 
-###👨🏼‍💻 Backend & Cloud: Firebase.
+👨🏼‍💻 Backend & Cloud: Firebase.
 
-###👨🏼‍💻 Programming Languages: Dart, Python, JS, TS.
+👨🏼‍💻 Programming Languages: Dart, Python, JS, TS.
 
-###I am passionate about crafting efficient, scalable, and user-friendly web applications.
+I am passionate about crafting efficient, scalable, and user-friendly web applications.
 
-###I enjoy sharing my knowledge and helping others grow in their programming careers.
+I enjoy sharing my knowledge and helping others grow in their programming careers.
 Explore my repositories to see my projects and contributions.
